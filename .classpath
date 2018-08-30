@@ -16,5 +16,7 @@
 	<classpathentry kind="lib" path="src/jar/iText7-Core-7.1.2/iText7-Core-7.1.2/sign-7.1.2.jar"/>
 	<classpathentry kind="lib" path="src/jar/iText7-Core-7.1.2/iText7-Core-7.1.2/styled-xml-parser-7.1.2.jar"/>
 	<classpathentry kind="lib" path="src/jar/iText7-Core-7.1.2/iText7-Core-7.1.2/svg-7.1.2.jar"/>
+	<classpathentry kind="lib" path="src/jar/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/eclipse-workspace/HtmlToPdf/src/jar/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
